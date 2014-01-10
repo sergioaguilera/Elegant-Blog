@@ -1,4 +1,7 @@
 Elegant-Blog
 ============
 
-Plantilla  de mi blog personal 
+Esta plantilla fue diseñada para [mi blog](http://blog.sergioaaguilera.mx).
+
+Para cualquier duda o aclaración favor de escribirme a  **sergio@movimientolibre.com**
+
